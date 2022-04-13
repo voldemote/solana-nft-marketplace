@@ -1,5 +1,5 @@
-### HI, There
-
+### An NFT marketplace on Solana blockchain
+<img src="https://img.shields.io/badge/Solana-NFT-lightgrey">
 ### Compile and Deploy Contracts
 - make sure you have solana installed
 - make sure you have rust installed
